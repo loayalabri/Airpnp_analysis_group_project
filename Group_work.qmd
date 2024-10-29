@@ -1,0 +1,5 @@
+# Group C2 Project
+
+```{r}
+library(ggplot2)
+```
