@@ -1,9 +1,0 @@
-# Group C2 Project
-
-```{r}
-library(ggplot2)
-```
-
-```{r}
-library(tidyverse)
-```
